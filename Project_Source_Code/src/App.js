@@ -83,7 +83,7 @@ export default function App() {
         </main>
 
         <footer class="flex justify-center text-center text-white bg-slate-800 p-0.5">
-          <p class="mr-2">Galen Ciszek and Ashwini Chawla</p>
+          <p class="mr-2">Lara Priscilla Anderson</p>
           <p class="ml-2"> &copy; 2022</p>
         </footer>
       </Router>
